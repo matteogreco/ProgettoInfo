@@ -1,9 +1,9 @@
 //
-//  projBoard.c
-//  
+//  Progetto per la board
+//  Consegna: 2 Giugno 2016
 //
-//  Created by Matteo Greco on 26/05/16.
-//
+//  Matteo Greco - Matricola: 807205
+//  Nicolò Grassi - Matricola: 808940
 //
 
 #include <stdio.h>
